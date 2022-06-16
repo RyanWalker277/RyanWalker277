@@ -1,6 +1,7 @@
-<img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_960_720.png" alt="ryanwalker277" />
 <h1 align="center">Hi 👋, I'm Anvansh Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+
+<img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_960_720.png" alt="ryanwalker277" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanwalker277&label=Profile%20views&color=0e75b6&style=flat" alt="ryanwalker277" /> </p>
 
