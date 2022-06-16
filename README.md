@@ -27,10 +27,10 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RyanWalker277&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+### ✍️Just a random dev quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂Random Dev Meme
+### 😂Let's giggle together
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
