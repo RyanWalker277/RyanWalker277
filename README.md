@@ -32,9 +32,6 @@
 ### ✍️Just a random dev quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 😂Let's giggle together
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=RyanWalker277&icon=0&color=0)](https://visitcount.itsvg.in)
 
