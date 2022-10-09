@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anvansh Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_960_720.png" alt="ryanwalker277" />
+<img src="https://www.digitalonus.com/wp-content/uploads/2019/07/DOU-GIF4.gif" alt="ryanwalker277" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanwalker277&label=Profile%20views&color=0e75b6&style=flat" alt="ryanwalker277" /> </p>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/anvansh1" target="blank"><img src="https://img.shields.io/twitter/follow/anvansh1?logo=twitter&style=for-the-badge" alt="anvansh1" /></a> </p>
 
-- 🌱 I’m currently learning about **Docker and DevOps**
+- 🌱 I’m currently learning about **Docker and Production Deployment**
 
 - 💬 Ask me about **Django and Flask**
 
