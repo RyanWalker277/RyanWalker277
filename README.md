@@ -28,7 +28,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanWalker277&theme=tokyonight" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=RyanWalker277&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+[![Anvansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RyanWalker277&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,7 +41,5 @@
 
 ### ✍️Just a random dev quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=RyanWalker277&icon=0&color=0)](https://visitcount.itsvg.in)
 
