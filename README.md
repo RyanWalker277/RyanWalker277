@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/anvansh1" target="blank"><img src="https://img.shields.io/twitter/follow/anvansh1?logo=twitter&style=for-the-badge" alt="anvansh1" /></a> </p>
 
-- 🌱 I’m currently learning about **Docker and Production Deployment**
+- 🌱 I’m currently learning about **Kubernetes**
 
 - 💬 Ask me about **Django and Flask**
 
