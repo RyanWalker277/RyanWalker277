@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about **Kubernetes**
 
-- 🤝 I’m looking for help with [DDeploy](https://github.com/RyanWalker277/ddeploy), [Aptigrate](https://github.com/RyanWalker277/Aptigrate) and [PyOGC](https://github.com/RyanWalker277/PyOGC/tree/main/PyOGC)
+- 🤝 I’m looking for help with [DDeploy](https://github.com/RyanWalker277/ddeploy), [Aptigrate](https://github.com/RyanWalker277/Aptigrate) and [PyOGC](https://github.com/RyanWalker277/PyOGC)
 
 - 💬 Ask me about **Django and Flask**
 
